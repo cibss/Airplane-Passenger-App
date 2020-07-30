@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1490632490 source:c:\users\asus\desktop\new chapter\main.cpp
+	<iostream>
+	"aplikasi.h"
+
+1490668752 source:c:\users\asus\desktop\new chapter\parent.cpp
+	"parent.h"
+
+1490664050 c:\users\asus\desktop\new chapter\parent.h
+	<iostream>
+
+1490668752 source:c:\users\asus\desktop\new chapter\child.cpp
+	"child.h"
+
+1490664668 c:\users\asus\desktop\new chapter\child.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1490672194 source:c:\users\asus\desktop\new chapter\relasi.cpp
+	"relasi.h"
+
+1490665281 c:\users\asus\desktop\new chapter\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1490673080 source:c:\users\asus\desktop\new chapter\aplikasi.cpp
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	"aplikasi.h"
+	<iostream>
+	<conio.h>
+
+1490631132 c:\users\asus\desktop\new chapter\aplikasi.h
+	"relasi.h"
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1490706957 source:d:\smstr 2\asd\new chapter\new chapter\aplikasi.cpp
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	"aplikasi.h"
+	<iostream>
+	<conio.h>
+
+1490704266 d:\smstr 2\asd\new chapter\new chapter\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1490664050 d:\smstr 2\asd\new chapter\new chapter\parent.h
+	<iostream>
+
+1490664668 d:\smstr 2\asd\new chapter\new chapter\child.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1490631132 d:\smstr 2\asd\new chapter\new chapter\aplikasi.h
+	"relasi.h"
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1490668752 source:d:\smstr 2\asd\new chapter\new chapter\child.cpp
+	"child.h"
+
+1490632490 source:d:\smstr 2\asd\new chapter\new chapter\main.cpp
+	<iostream>
+	"aplikasi.h"
+
+1490668752 source:d:\smstr 2\asd\new chapter\new chapter\parent.cpp
+	"parent.h"
+
+1490705806 source:d:\smstr 2\asd\new chapter\new chapter\relasi.cpp
+	"relasi.h"
+
+1490790513 source:c:\users\asus\downloads\documents\tugas-besar-asd-master\aplikasi.cpp
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	"aplikasi.h"
+	<iostream>
+	<conio.h>
+
+1490790641 c:\users\asus\downloads\documents\tugas-besar-asd-master\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1490790243 c:\users\asus\downloads\documents\tugas-besar-asd-master\parent.h
+	<iostream>
+
+1490790386 c:\users\asus\downloads\documents\tugas-besar-asd-master\child.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1490790821 c:\users\asus\downloads\documents\tugas-besar-asd-master\aplikasi.h
+	"relasi.h"
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1490790472 source:c:\users\asus\downloads\documents\tugas-besar-asd-master\child.cpp
+	"child.h"
+
+1490657770 source:c:\users\asus\downloads\documents\tugas-besar-asd-master\main.cpp
+	<iostream>
+	"aplikasi.h"
+
+1490657770 source:c:\users\asus\downloads\documents\tugas-besar-asd-master\relasi.cpp
+	"relasi.h"
+
+1490790086 source:c:\users\asus\downloads\documents\tugas-besar-asd-master\parent.cpp
+	"parent.h"
+
